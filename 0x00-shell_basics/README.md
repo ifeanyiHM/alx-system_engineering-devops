@@ -9,3 +9,4 @@
 9. Delete the file betty.
 10. Delete the directory my_first_directory that is in the /tmp directory.
 11. Write a script that changes the working directory to the previous one.
+12. Write a script that lists all files.
