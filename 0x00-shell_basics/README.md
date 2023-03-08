@@ -11,3 +11,4 @@
 11. Write a script that changes the working directory to the previous one.
 12. Write a script that lists all files.
 13. Write a script that prints the type of the file named iamafile.
+14. Create a symbolic link to /bin/ls, named __ls__.
