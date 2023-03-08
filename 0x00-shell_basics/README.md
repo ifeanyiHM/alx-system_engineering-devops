@@ -2,3 +2,4 @@
 2. The second script - 1-listit displays the content list of my working directory.
 3. The thired script - 2-bring_me_home navigate to the users home directory.
 4. Displays current directory content in a long format.
+5. Display current directory contents, including hidden files (starting with .). Use the long format.
